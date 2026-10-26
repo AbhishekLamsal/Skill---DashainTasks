@@ -1,4 +1,4 @@
-# # Ask the shopper a few questions, then print a neat receipt.
+# Ask the shopper a few questions, then print a neat receipt.
 
 # Ask for input
 name = input("Your name: ")
